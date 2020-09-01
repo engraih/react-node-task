@@ -1,0 +1,11 @@
+.dropzone{
+  max-width: 700px;
+  width:100%;
+  display: flex;
+  justify-content: center;
+  border: 2px dashed #ddd;
+  min-height: 250px;
+  margin: 30px auto;
+  align-items: center;
+  cursor: pointer; 
+}
